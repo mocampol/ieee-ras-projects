@@ -1,4 +1,4 @@
-# Mis Proyectos en IEEE RAS 💽​✨
+# Mis Proyectos en IEEE RAS 💿​✨
 
 ¡Hola! En este repositorio organizo de manera **personal** los códigos, algoritmos y desarrollos técnicos en los que trabajo como voluntaria dentro de las actividades y eventos del capítulo estudiantil **IEEE Robotics and Automation Society (RAS)**.
 
