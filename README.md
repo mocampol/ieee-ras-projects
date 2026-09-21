@@ -8,5 +8,5 @@ Aquí guardo el software desarrollado para:
 * **[Flor Robótica (Semestre 2026-2)]:** Diseño y programación de una flor animatrónica decorativa. Implementa un control de movimiento suavizado por servomotores y efectos de iluminación LED mediante microcontroladores.
 
 ## 🛠️ Tecnologías que utilizo
-* **Lenguajes:** Python.
+* **Lenguajes:** C++.
 * **Plataformas y Herramientas:** Arduino IDE, Git.
