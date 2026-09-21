@@ -6,7 +6,6 @@
 Aquí guardo el software desarrollado para:
 
 * **[Flor Robótica (Semestre 2026-2)]:** Diseño y programación de una flor animatrónica decorativa. Implementa un control de movimiento suavizado por servomotores y efectos de iluminación LED mediante microcontroladores.
-* **[3D Gaussian Splatting (Semestre 2026-2)]:** Pruebas y algoritmos de reconstrucción de escenas 3D en tiempo real a partir de imágenes, explorando técnicas avanzadas de visión por computadora y renderizado volumétrico.
 
 ## 🛠️ Tecnologías que utilizo
 * **Lenguajes:** Python.
